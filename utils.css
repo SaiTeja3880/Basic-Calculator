@@ -1,0 +1,40 @@
+.text-center{
+    text-align: center;
+    color: white;
+  }
+  
+  .bg-red{
+    background: red;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display: flex;
+  }
+  
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
+  
+  .bg-orange{
+    background-color: #E57C23;
+  }
+  
+  .bg-silver{
+    background-color: #19A7CE;
+  }
+  
+  .text-color{
+    color: white;
+  }
+  
+  .bg-black{
+    background-color: #2C3333;
+  }
